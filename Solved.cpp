@@ -9,7 +9,7 @@ int createArray(int number);
 int main()
 {
     int selection;
-    cout << "*****************************************\n*\tPlease select\t\t\t*\n*\t1->Solve default problem\t*\n*\t2->Create array and solve\t*\n*****************************************" << endl;
+    cout << "******************************************\n*\tPlease select\t\t\t*\n*\t1->Solve default problem\t*\n*\t2->Create array and solve\t*\n*****************************************" << endl;
     cin >> selection;
     switch (selection)
     {
